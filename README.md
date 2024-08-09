@@ -9,6 +9,7 @@ $pip install requests[socks]
 
 # Run Code
 $python Python Script to Download Files Over Tor.py
+
 or
 
 $python3 Python Script to Download Files Over Tor.py
